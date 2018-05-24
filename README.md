@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/gujans/travis-gtest-cmake-example.svg?branch=master)](https://travis-ci.org/gujans/travis-gtest-cmake-example) [![codecov](https://codecov.io/gh/gujans/travis-gtest-cmake-example/branch/master/graph/badge.svg)](https://codecov.io/gh/gujans/travis-gtest-cmake-example)
-
+[![Build Status](https://travis-ci.org/selyunin/gtest_cmake_travis_example.svg?branch=master)](https://travis-ci.org/selyunin/gtest_cmake_travis_example)
 
 
 # What is this?
@@ -56,6 +55,18 @@ and if you did cmake with test=ON:
 
     ./runUnitTests
 
-# Acknowledgement and further details
-This repository is based on the works of David Y. Zhang in [this](https://github.com/dmonopoly/gtest-cmake-example) repository. He spent a lot of time figuring out all the details for cmake and gtest. Please refer to his repository README for more detail on his approach.
-
+# Acknowledgement
+The acknowledgments go to:
+* [Gunnar](https://github.com/gujans) and
+ [this](https://github.com/gujans/travis-gtest-cmake-example)
+ repository, for providing a minimal working example of
+ [gtest](https://github.com/google/googletest), 
+ [travis-ci](https://travis-ci.org/), and 
+ [cmake](https://cmake.org/).  
+ 
+ 
+* [David Y. Zhang](https://github.com/dmonopoly) and 
+[this](https://github.com/dmonopoly/gtest-cmake-example) 
+repo. For setting up a repo with 
+[gtest](https://github.com/google/googletest) and 
+[cmake](https://cmake.org/).
